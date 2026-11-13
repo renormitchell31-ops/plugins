@@ -4,6 +4,20 @@ Bonded, challengeable dictionary for ASCII headwords. Inspired by in-page lookup
 
 Canonical text is written only after an optimistic challenge window or an arbiter ruling. Bonds are pulled, never pushed.
 
+## Installation
+
+```text
+/add-plugin onchain-dictionary
+```
+
+## Skills
+
+| Skill | Description |
+| --- | --- |
+| `deploy-dictionary` | Test and deploy `TimelockGovernor` then `DictionaryRegistry` |
+| `propose-dictionary-entry` | Valid propose / challenge / finalize / resolve / timeout / withdraw flow |
+| `review-dictionary-registry` | Pre-flight fund-safety and constraint review before mainnet |
+
 ## Layout
 
 | Contract | Role |

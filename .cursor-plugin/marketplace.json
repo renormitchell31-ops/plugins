@@ -94,6 +94,11 @@
       "description": "Consult a stronger model before major decisions, when stuck, and before declaring done."
     },
     {
+      "name": "onchain-dictionary",
+      "source": "onchain-dictionary",
+      "description": "Bonded, challengeable ASCII dictionary. Canonical text is written only after a challenge window or an arbiter ruling. Bonds are pulled, never pushed."
+    },
+    {
       "name": "gmail",
       "source": "third_party/gmail",
       "description": "Search, read, draft, and manage email."

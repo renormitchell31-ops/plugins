@@ -1,0 +1,30 @@
+{
+  "name": "onchain-dictionary",
+  "displayName": "On-chain Dictionary",
+  "version": "0.1.0",
+  "description": "Bonded, challengeable ASCII dictionary. Canonical text is written only after a challenge window or an arbiter ruling. Bonds are pulled, never pushed.",
+  "author": {
+    "name": "renormitchell31-ops",
+    "email": "renormitchell31@gmail.com"
+  },
+  "homepage": "https://github.com/renormitchell31-ops/plugins/tree/main/onchain-dictionary",
+  "repository": "https://github.com/renormitchell31-ops/plugins",
+  "license": "MIT",
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "dictionary",
+    "optimistic",
+    "bonded",
+    "governance",
+    "foundry"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "solidity",
+    "ethereum",
+    "dictionary",
+    "governance"
+  ],
+  "skills": "./skills/"
+}
